@@ -1,0 +1,8 @@
+spy= {
+    'name':'Bond',
+    'salutation': 'MR.',
+    'age': 20,
+    'rating': 4,
+    'is_online':True
+}
+print dict['name']

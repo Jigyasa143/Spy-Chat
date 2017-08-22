@@ -1,0 +1,9 @@
+#start_chat() fucntion defintion.
+import steganography.steganography
+def start_chat():
+    menu_choices="What do you want to dp? \n 1. Add Status upadte\n 2.u "
+    menu_choice=raw_input(menu_choices)
+
+    if(menu_choice == 1 ):
+        print "helo"
+
